@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**shahriarAb/shahriarAb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Full Stack Web Development
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning TypeScript, ExpressJS, Python, Machine Learning Algorithm.
+- 👯 I’m looking to collaborate on open source projects.
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+- https://www.linkedin.com/in/shahriar-abid-902322200/
+- https://www.fb.com/shahriar.Ab07
+- 📩shahriar.m.abid@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Hi there 👋
+👀 I’m interested in Full Stack Web Development
+🌱 I’m currently learning Nodejs, MongoDB and TypeScript
+💞️ I’m looking to collaborate on open source projects.
+📫 How to reach me
+https://www.linkedin.com/in/syed-md-abdul-hamid-7a1610241/
+https://www.facebook.com/hamidazad.abdulhamid
